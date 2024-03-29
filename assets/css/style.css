@@ -1,0 +1,14 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body{
+    font-family: "Cabin", sans-serif;
+}
+
+.nav-titulo{
+    font-family: "Lobster", cursive;
+    font-size: 39px;
+}
