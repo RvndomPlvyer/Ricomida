@@ -1,3 +1,4 @@
+/* Globals */
 :root{
     --gris: #dddddd;
 }
@@ -12,11 +13,13 @@ body{
     font-family: "Cabin", sans-serif;
 }
 
+/* Navbar */
 .nav-titulo{
     font-family: "Lobster", cursive;
     font-size: 39px;
 }
 
+/* Header */
 .header-text h2, 
 .header-text h5{
     text-align: left !important;
@@ -34,4 +37,16 @@ body{
 
 .header-button{
     border: 1px solid var(--gris);
+}
+
+/* Carrousel */
+.carousel-indicators{
+    top: 103.5% !important
+}
+
+.carousel-indicators button{
+    border-radius: 50% !important;
+    height: 15px !important;
+    width: 15px !important;
+    background-color: #373A3C !important;
 }
