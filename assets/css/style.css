@@ -50,3 +50,15 @@ body{
     width: 15px !important;
     background-color: #373A3C !important;
 }
+
+/* Recipe */
+#recipe ul{
+    padding-left: 0 !important;
+}
+
+#recipe ul li{
+    text-decoration: none;
+    list-style-type: none;
+    list-style-position: inside;
+    list-style: none;
+}
