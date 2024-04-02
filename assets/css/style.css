@@ -62,3 +62,17 @@ body{
     list-style-position: inside;
     list-style: none;
 }
+
+/* Related */
+.card{
+    height: 420px;
+}
+
+.card-text{
+    font-weight: 600;
+}
+
+/* Newsletter */
+#newsletter{
+    background-color: #DC3545;
+}
