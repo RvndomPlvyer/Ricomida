@@ -75,4 +75,19 @@ body{
 /* Newsletter */
 #newsletter{
     background-color: #DC3545;
+    padding: 10% 0%;
+}
+
+.newsletter__button{
+    padding: 0.5% 5%;
+    border-color: #dddddd !important;
+}
+
+#newsletter span{
+    font-family: "Lobster", cursive !important;
+}
+
+/* Footer */
+footer{
+    font-family: "Lobster", cursive !important;
 }
